@@ -1,4 +1,4 @@
-# dhee26 Vehicle Tracking Syste,
+# dhee26 Vehicle Tracking System
 # 4/27/2020
 Track vehicles position using GPS navigation. A device em boarded in a vehicle, will communicate with your API to register the vehicle and update its position.
 
